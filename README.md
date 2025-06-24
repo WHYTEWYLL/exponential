@@ -1,8 +1,8 @@
 **Best with:** *e.g. Python · DBT · Data Warehouses / Pipelines*  
 **Familiar with:** *e.g. TypeScript · Solidity · ML*
 
-> 💡 **TL;DR** – *In 3-5 concise sentences, pitch why you’re an outstanding Exponential Fellow—highlight your super-power, biggest wins and what drives you.*
-I’m a Spanish engineer who thinks like a founder. I enjoy solving hard problems and building things people use every day. My strength is understanding what’s needed and doing whatever it takes to get it done. At Flipside, this helped us close over $3M in data services. In my free time, I explore other fields, looking for useful patterns to apply later.
+> 💡 **TL;DR** – I’m a Spanish engineer who thinks like a founder. I enjoy solving hard problems and building things people use every day. My strength is understanding what’s needed and doing whatever it takes to get it done. 
+At Flipside, this helped us close over $3M in data services. In my free time, I explore other fields, looking for useful patterns to apply later.
 ---
 
 ## About [Your Name]
