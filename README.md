@@ -1,8 +1,9 @@
 **Best with:** *e.g. Python · DBT · Data Warehouses / Pipelines*  
 **Familiar with:** *e.g. TypeScript · Solidity · ML*
 
-> 💡 **TL;DR** – I’m a Spanish engineer who thinks like a founder. I enjoy solving hard problems and building things people use every day. My strength is understanding what’s needed and doing whatever it takes to get it done. 
-At Flipside, this helped us close over $3M in data services. In my free time, I explore other fields, looking for useful patterns to apply later.
+> 💡 **TL;DR** – I’m a Spanish engineer who thinks like a founder. I enjoy solving hard problems and building things people use every day. My strength is understanding what’s needed and doing whatever it takes to get it done.
+> 
+> At Flipside, this helped us close over $3M in data services. In my free time, I explore other fields, looking for useful patterns to apply later.
 ---
 
 ## About [Your Name]
@@ -12,15 +13,15 @@ I'm Juan. I've been working in data and AI for the past 8 years, across industri
 ### Main Achievements
 
 - **Achievement 1.** Generated $60k / month in revenue from Messari's first profitable data product. Spearheaded development and delivery of the app, which leveraged blockchain analytics for institutional clients.
-- **Achievement 2.** … Deployment of Solana’s decoder at Flipside. Resulted in scalable analytics infrastructure now used to power dashboards and insights.
-- **Achievement 3.** … Delivered end-to-end data platform for Polywrap. Built full-stack AWS solution (Lambdas, Athena, QuickSight) for internal + client-facing analytics.
+- **Achievement 2.** Deployment of Solana’s decoder at Flipside. Resulted in scalable analytics infrastructure now used to power dashboards and insights.
+- **Achievement 3.** Delivered end-to-end data platform for Polywrap. Built full-stack AWS solution (Lambdas, Athena, QuickSight) for internal + client-facing analytics.
 
 ### Most-Prideful Builds
 
 | Project | Your role & stack | Impact / Demo |
 |---------|-------------------|---------------|
 | **VeHelper** | e.g. AI and Data Engineer • TypeScript |  Achieved promotion at UFC with an average of 10,000 active users| *We will realease it in 3 weeks*
-| ** Transfer Near** | e.g. Data Engineer • DBT | PDeveloped a pipeline model capturing 99% of transfer for the first time in Near  | [Link](https://github.com/FlipsideCrypto/near-models/tree/main/models/silver/transfers)
+| **Transfer Near** | e.g. Data Engineer • DBT | PDeveloped a pipeline model capturing 99% of transfer for the first time in Near  | [Link](https://github.com/FlipsideCrypto/near-models/tree/main/models/silver/transfers)
 | **Last Mile Prediction Model** | e.g. Data Scientst • Python +  | Built a Last Mile model that surpassed a year-long project within just one month|
 
 
