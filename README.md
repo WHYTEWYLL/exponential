@@ -6,9 +6,9 @@
 > At Flipside, this helped us close over $3M in data services. In my free time, I explore other fields, looking for useful patterns to apply later.
 ---
 
-## About [Your Name]
+## About Juan
 
-I'm Juan. I've been working in data and AI for the past 8 years, across industries like banking, retail, and open source blockchain infrastructure. My experience spans AI, crypto, and analytics. I get excited about solving hard problems and building things that actually get used.
+A Madrilenian with 8 years of experience in data and AI, working across banking, retail, and open-source blockchain infrastructure. Skilled in AI, crypto, and analytics, driven by a passion for solving tough problems and building tools people actually use.
 
 ### Main Achievements
 
