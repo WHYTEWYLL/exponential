@@ -18,21 +18,21 @@ A Madrilenian with 8 years of experience in data and AI, working across banking,
 
 ### Most-Prideful Builds
 
-| Project | Your role & stack | Impact / Demo |
-|---------|-------------------|---------------|
-| **VeHelper** | e.g. AI and Data Engineer • TypeScript |  Achieved promotion at UFC with an average of 10,000 active users| *We will realease it in 3 weeks*
-| **Transfer Near** | e.g. Data Engineer • DBT | PDeveloped a pipeline model capturing 99% of transfer for the first time in Near  | [Link](https://github.com/FlipsideCrypto/near-models/tree/main/models/silver/transfers)
-| **Last Mile Prediction Model** | e.g. Data Scientst • Python +  | Built a Last Mile model that surpassed a year-long project within just one month|
+| Project | Your role & stack | Impact / Demo | Link |
+|---------|-------------------|---------------|------ |
+| **VeHelper** | e.g. AI and Data Engineer • TypeScript |  Achieved promotion at UFC with an average of 10,000 active users| We will realease it in 2 weeks
+| **Transfer Near** | e.g. Data Engineer • DBT | Developed a pipeline model capturing 99% of transfer for the first time in Near  | [Link](https://github.com/FlipsideCrypto/near-models/tree/main/models/silver/transfers)
+| **Last Mile Prediction Model** | e.g. Data Scientst • Python + PyTorch  | Built a Last Mile model that surpassed a year-long project within just one month| I dont have access
 
 
 ### Experience (TL;DR)
 
 - **Founder / CORTA.AI – Apr 2025–Now.** Shipping AI and data services as a studio for enterprise clients. Currently working with BCG.
 - **Analytics Engineer / Flipside – 2023–2025.** Built pipelines and modeled data across Solana, Near, Flow, and Aurora.
-- **Data Lead / dOrg – 2021–2024 Led DAO data infrastructure and consulted across Web3 projects including Aave, Uniswap, ParaSwap, Polywrap, and AcreDao.
+- **Data Lead / dOrg – 2021–2024.** Led DAO data infrastructure and consulted across Web3 projects including Aave, Uniswap, ParaSwap, Polywrap, and AcreDao.
 * **Data Engineer / Messari – 2022–2023.**  Built the first data warehouse, migrated over 200 scripts into production workflows, and led the development of profitable data products and client analytics.
-* **Data Scientist** – 2017–2022.** Worked on recommendation systems and enterprise data solutions for clients like Mapfre, Santander Bank and Inditex.
-- **Hackathons / OSS / Volunteering** – Finalist @ MassChallenge & Biscay Bay Startup Campus. Also I won a few ETH Hackatons.
+* **Data Scientist – 2017–2022.** Worked on recommendation systems and enterprise data solutions for clients like Mapfre, Santander Bank and Inditex.
+- **Hackathons / OSS / Volunteering.** – Finalist @ MassChallenge & Biscay Bay Startup Campus. Also I won a few ETH Hackatons.
 ---
 
 ## How I Work
